@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935004708650",
+    "project_id": "fyta04",
+    "storage_bucket": "fyta04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935004708650:android:8a23b14bb7f09b89e58853",
+        "android_client_info": {
+          "package_name": "com.example.fyta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935004708650-bma7tdm0ob3t8kvt3lqpbk264o47ejed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtzsKOR7HMdUHHr1YLs6cUGBCIpAzASdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935004708650-bma7tdm0ob3t8kvt3lqpbk264o47ejed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
