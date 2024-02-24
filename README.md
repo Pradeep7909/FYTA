@@ -1,16 +1,22 @@
-# fyta
+# Find Your Temporary Address (FYTA) App
 
-A new Flutter project.
+## Overview
+Find Your Temporary Address (FYTA) is a mobile application developed as a learning project. It utilizes Firebase for backend services and integrates various features to assist users in finding temporary accommodations like rooms and hostels.
 
-## Getting Started
+## Features
+- **Firebase Authentication**: Users can sign in using mobile number OTP authentication provided by Firebase.
+- **Accommodation Search**: Tenants can search for available rooms and hostels based on their preferences.
+- **Google Maps Integration**: The app integrates Google Maps API to provide location-based search and navigation functionalities.
+- **Contact Option**: Users can contact landlords or hosts directly through the app.
+- **User Profile**: Users have access to their profiles where they can manage their information.
 
-This project is a starting point for a Flutter application.
+## Acknowledgements
+- Firebase
+- Google Maps API
 
-A few resources to get you started if this is your first Flutter project:
+## Contact
+For any inquiries or support, please contact me.
+ * **Email:** pradeeprathore79093@gmail.com
+ * **LinkedIn:** [Linkedin Link](https://in.linkedin.com/in/pradeep-rathore-5824a6237)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for using the Find Your Temporary Address (FYTA) App! 🏠📱
